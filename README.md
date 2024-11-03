@@ -3,12 +3,12 @@ LMS - Spring Boot Project with CRUD and pagination functionality.
 
 ## Modules
 
-# Book
-## Author
+### Book
+### Author
 ### Category
-#### Publisher
+### Publisher
 
-### CRUD Oprations
+# CRUD Oprations
 
 # Create :-
 ![Create_Publisher](https://github.com/user-attachments/assets/7f361ba5-552a-4745-8b79-afa7d0662447)
