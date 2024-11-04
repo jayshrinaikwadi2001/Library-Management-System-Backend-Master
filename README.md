@@ -8,7 +8,29 @@ LMS - Spring Boot Project with CRUD and pagination functionality.
 ### Category
 ### Publisher
 
+## Technologies Used:
+
+A) Spring boot
+
+B) Rest controller
+
+C) DB configuration (MySQL)
+
+D) annotation based configuration
+
+E) JPA & Hibernate
+
 # CRUD Oprations
+
+GET - all the Books, categories, Authors, Publishers 
+
+POST - create a new Book, category, Author, Publisher
+
+GET - Book, category, Author, Publisher by Id
+
+PUT - update Book, category, Author, Publisher by id
+
+DELETE - Delete Book, category, Author, Publisher by id
 
 # Create :-
 ![Create_Publisher](https://github.com/user-attachments/assets/7f361ba5-552a-4745-8b79-afa7d0662447)
@@ -37,7 +59,6 @@ __2. Get All Records__
 #### Delete :-
 
 ![Delete](https://github.com/user-attachments/assets/89e82198-e530-4961-8938-a43e61606781)
-
 
 
 
